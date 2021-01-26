@@ -6,6 +6,11 @@ It also changes the design of some plugins to fit into the colour scheme.
 
 ## Examples
 
+<img width="863" alt="Bildschirmfoto 2021-01-26 um 22 15 19" src="https://user-images.githubusercontent.com/66064484/105908705-d7c57d80-6026-11eb-928d-4fd0cbe15ffe.png">
+<img width="463" alt="Bildschirmfoto 2021-01-26 um 22 15 10" src="https://user-images.githubusercontent.com/66064484/105908710-d8f6aa80-6026-11eb-89fb-1c5bdf8abd2f.png">
+<img width="1621" alt="Bildschirmfoto 2021-01-26 um 22 14 53" src="https://user-images.githubusercontent.com/66064484/105908729-ddbb5e80-6026-11eb-95eb-fb831e0c2819.png">
+<img width="463" alt="Bildschirmfoto 2021-01-26 um 22 15 10" src="https://user-images.githubusercontent.com/66064484/105908741-e01db880-6026-11eb-81d5-e80158774183.png">
+<img width="1634" alt="Bildschirmfoto 2021-01-26 um 22 18 46" src="https://user-images.githubusercontent.com/66064484/105908763-e6139980-6026-11eb-9e2f-6de17306481a.png">
 
 
 ## Installation
