@@ -1405,7 +1405,6 @@ body {
   }
 }
 
-
 /* headlines  */
 
 .k-headline-field {
@@ -1880,6 +1879,10 @@ select:-webkit-autofill:focus {
 
 .k-field[data-disabled] {
   opacity: 0.6;
+}
+
+.k-user-profile {
+  background: none;
 }
 
 /* color palette plugin */
