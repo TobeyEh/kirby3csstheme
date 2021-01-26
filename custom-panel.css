@@ -1634,6 +1634,7 @@ select:-webkit-autofill:focus {
 .k-login-view .k-checkbox-input-label {
   display: inline-block;
   padding-left: 0.75rem;
+  margin-top: 1rem;
 }
 
 .k-login-view .k-checkbox-input {
