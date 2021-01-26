@@ -14,10 +14,12 @@ It also changes the design of some plugins to fit into the colour scheme.
 
 2. Register the CSS file in the Kirby config.php file located at `/site/config/config.php` using
 
-    return [
-      'panel' => [
-        'css' => 'assets/css/custom-panel.css'
-      ]
-    ];
+```
+return [
+  'panel' => [
+    'css' => 'assets/css/custom-panel.css'
+  ]
+];
+```
 
 The plugins aims to be styling all native elements however, since there are quite a lot, you can gladly report any missed elements.
