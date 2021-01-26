@@ -24,7 +24,7 @@ return [
 https://getkirby.com/docs/reference/system/options/panel#custom-panel-css
 
 
-##Info
+## Info
 
 The file is autoprefixed using https://autoprefixer.github.io.
 
