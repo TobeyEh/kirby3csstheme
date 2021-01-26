@@ -1421,7 +1421,7 @@ body {
 }
 
 .k-fieldset .k-grid {
-  grid-row-gap: 3rem;
+  grid-row-gap: 2rem;
 }
 
 .k-column .k-section:not(:first-child) {
