@@ -470,7 +470,7 @@ body {
 
 .k-input[data-theme=field][data-type=checkboxes] .k-checkbox-input-native:checked+.k-checkbox-input-icon,
 .k-checkbox-input-native:checked+.k-checkbox-input-icon {
-  border: 1px solid var(--color-focus) !important;
+  border: 1.5px solid var(--color-focus) !important;
   border-color: var(--color-focus);
   background: var(--color-focus);
   color: var(--color-text-light);
