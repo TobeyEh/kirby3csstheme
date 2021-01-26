@@ -1816,6 +1816,12 @@ select:-webkit-autofill:focus {
   }
 }
 
+.k-dialog-notification[data-theme=error] {
+  color: var(--color-text-light);
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+}
+
 .k-dialog {
   background: var(--color-background);
   border-radius: 0.5em;
