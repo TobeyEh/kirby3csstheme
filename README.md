@@ -1,5 +1,5 @@
 # Kirby CSS theme
-A CSS theme for Kirby 3
+A CSS theme for Kirby 3.5
 
 The CSS theme aims to be soft and friendly by using a light colour scheme, rounded border edges, light focus-outlines, mini-animations etc.
 It also changes the design of some plugins to fit into the colour scheme.
